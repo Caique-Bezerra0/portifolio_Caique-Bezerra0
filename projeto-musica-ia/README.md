@@ -1,6 +1,8 @@
 
 # 🎵 Projeto Música & IA: Composição Generativa com Gemini e Suno
 
+[Crack Skylight.mp3](https://github.com/user-attachments/files/27614761/Crack.Skylight.mp3)
+
 ![GitHub language count](https://img.shields.io/github/languages/count/[SEU_USUARIO]/projeto-musica-ia?style=for-the-badge)
 ![GitHub repo size](https://img.shields.io/github/repo-size/[SEU_USUARIO]/projeto-musica-ia?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
@@ -24,7 +26,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 | 02 | Static Phase | Trap/Rap | [Static Phase.mp3](https://github.com/user-attachments/files/27614496/Static.Phase.mp3)) |
 | 03 | G-Wagen | Trap/Eletrônica | [G-Wagen.mp3](https://github.com/user-attachments/files/27614545/G-Wagen.mp3) |
 | 04 | Benzo Chase | Trap/Rap | [Benzo Chase.mp3](https://github.com/user-attachments/files/27614560/Benzo.Chase.mp3) |
-| 05 | Crack Skylight | Trap | [Benzo Chase.mp3]((https://github.com/user-attachments/files/27614572/Crack.Skylight.mp3)) |
+| 05 | Crack Skylight | Trap | [Crack Skylight.mp3](https://github.com/user-attachments/files/27614761/Crack.Skylight.mp3)) |
  
 ## 📄 Processo de Criação
 1. **Curadoria:** Seleção de 10 letras do artista base.
