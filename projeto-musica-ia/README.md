@@ -19,7 +19,7 @@ O assistente (Gems) utilizado para modelagem das letras pode ser acessado atrav�
 ## 🎧 Músicas Geradas
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 | :--- | :--- | :--- | :--- |
-| 01 | Red Light Jewelry | Trap/Rap | [Arquivo MP3](./audio/musica1.mp3) |
+| 01 | Red Light Jewelry | Trap/Rap | [Arquivo MP3](https://github.com/Caique-Bezerra0/portfolio-caique-bezerra-de-oliveira/blob/28904ab420bc11f78466b3d1a637fe3aed09c60c/projeto-musica-ia/M%C3%BAsica%201_%20Red%20Light%20Jewelry/Red%20Light%20Jewelry.mp3) |
 | 02 | Static Phase | Trap/Rap | [Arquivo MP3](./audio/musica2.mp3) |
 | 03 | G-Wagen | Trap/Eletrônica | [Arquivo MP3](./audio/musica3.mp3) |
 | 04 | Benzo Chase | Trap/Rap | [Arquivo MP3](./audio/musica4.mp3) |
